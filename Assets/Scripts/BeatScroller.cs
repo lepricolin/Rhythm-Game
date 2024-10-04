@@ -21,10 +21,10 @@ public class BeatScroller : MonoBehaviour
 
         if (!hasStarted) 
         { 
-            if (Input.GetKeyDown(KeyCode.Return))
-            {
-                hasStarted = true;
-            }
+           // if (Input.GetKeyDown(KeyCode.Return))
+            //{
+             //   hasStarted = true;
+           // }
 
          
         
